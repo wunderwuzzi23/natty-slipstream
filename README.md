@@ -8,7 +8,7 @@ Simplified NAT Slipstream server and client.
 
 More info in this post [Abusing Application Layer Gateways](https://embracethered.com/blog/posts/2020/nat-slipstreaming-simplified/)
 
-# Reference
+## Reference
 
 Inspired by NAT Slipstream by Samy Kumar (https://samy.pl/slipstream)
 
