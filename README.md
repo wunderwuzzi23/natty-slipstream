@@ -1,7 +1,11 @@
 # natty-slipstream
 
-Simplified NAT Slipstream server and client
+Simplified NAT Slipstream server and client.
 
-* Simple SIP Server - natty slipstream
+* Simple SIP Server
 * Just handles SIP part to punch hole in firewall (no HTTP/browser magic)
-* Inspired by NAT Slipstream code (https://samy.pl/slipstream)
+
+# Reference
+
+Inspired by NAT Slipstream by Samy Kumar (https://samy.pl/slipstream)
+https://github.com/samyk/slipstream
