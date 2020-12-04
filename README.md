@@ -10,6 +10,6 @@ More info in this post [Abusing Application Layer Gateways](https://embracethere
 
 ## Reference
 
-Inspired by NAT Slipstream by Samy Kumar (https://samy.pl/slipstream)
+Inspired by NAT Slipstream by Samy Kamkar (https://samy.pl/slipstream)
 
 https://github.com/samyk/slipstream
